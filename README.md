@@ -19,20 +19,7 @@ My goal is to keep growing in the integration and automation space, gathering de
 
 ## 🛠 Tech I work with
 
-TypeScript
-JavaScript
-Java
-PHP
-Bash
-React
-Next.js
-Spring Boot
-Claude AI
-Atlassian Rovo
-n8n
-AWS
-Azure
-SQL
+TypeScript • JavaScript • Java • PHP • Bash • React • Next.js • Spring Boot • Claude AI • Atlassian Rovo • n8n • AWS • Azure • SQL
 
 ---
 
