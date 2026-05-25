@@ -1,19 +1,41 @@
-**Hi there 👋, thanks for visiting!**
+# Hi there 👋
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoltanszikszo&layout=compact&theme=onedark">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zoltanszikszo&show_icons=true&theme=onedark">
-</div>
+My name is *Zoltán* — AI Enablement Consultant at RELEX Solutions in Helsinki, Finland.
 
-<br>
+I build intelligent automation and workflows that put an end to repetitive, manual work — making teams more efficient through the newest AI technologies.
 
-My name is Zoltán and I am a final-year studying Software Engineering at Haaga-Helia University of Applied Sciences.
+My goal is to keep growing in the integration and automation space, gathering deeper knowledge across AI systems and enterprise workflows — working towards a future as an *AI Solution Architect*.
 
-📚 What I'm Up To,:  
+---
 
-- 👨‍🎓 Studying at @haagahelia as a Software Engineer  
-- ⚡ Trying out myself in different areas in the Tech Industry  
+## 🔭 What I'm up to
 
-📧 Contact Me  <br>
-  
-  [Email](mailto:szikszo.zoltan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zoltanszikszo/) | To learn more: [website](https://www.zoltanszikszo.com).
+- 🤖 *AI Enablement* at RELEX Solutions — designing AI-powered workflows using Atlassian Rovo, Claude AI, and n8n
+- 🎓 *Starting my Master's* in Human-Technology Interaction at Tampere University (2026)
+- ✍️ *Writing* about AI tools and dev workflows at [zoltanszikszo.com/blog](https://zoltanszikszo.com/blog)
+- 📱 *Posting* about AI on Instagram [@xixo.codes](https://instagram.com/xixo.codes)
+
+---
+
+## 🛠 Tech I work with
+
+TypeScript
+JavaScript
+Java
+PHP
+Bash
+React
+Next.js
+Spring Boot
+Claude AI
+Atlassian Rovo
+n8n
+AWS
+Azure
+SQL
+
+---
+
+## 📫 Get in touch
+
+[Email](mailto:contact@zoltanszikszo.com) · [LinkedIn](https://linkedin.com/in/zoltanszikszo) · [Website](https://zoltanszikszo.com)
